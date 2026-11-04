@@ -8,6 +8,7 @@ A static gallery of interactive illustrations. Each figure is one HTML file with
 - [Jet engine](jet-engine.html) — a high-bypass turbofan with start, ignite, throttle, thrust reverse, shutdown, and a see-through view.
 - [A heat pump service](heat-pump-service.html) — a playable statechart: from plot number to a logged service, and the two ways a Daikin warranty can slip.
 - [The Duke of Wellington](wellington-timeline.html) — a life on a timeline: from "food for powder" to Waterloo, with the night he burned his violins.
+- [Today's workout](workout-cycle.html) — a session drawn as a cycle, with the 5x5 and 21-15-9 as loops inside it.
 
 ## Add a figure
 
